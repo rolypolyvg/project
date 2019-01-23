@@ -183,3 +183,6 @@ dmypy.json
 
 # virtualenv name
 virtual
+
+# ppt
+*.pptx
