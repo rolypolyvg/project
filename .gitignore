@@ -186,3 +186,10 @@ virtual
 
 # ppt
 *.pptx
+
+# mysql instruction
+mysql_making
+
+# mac tmp files
+.DS_Store
+
