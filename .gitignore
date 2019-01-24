@@ -193,3 +193,6 @@ mysql_making
 # mac tmp files
 .DS_Store
 
+# mysql login data
+connection.cnf
+
